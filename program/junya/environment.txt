@@ -1,0 +1,4 @@
+python==3.9
+pip install numpy pandas matplotlib
+conda install -c pytorch pytorch
+conda install -c pytorch torchvision
